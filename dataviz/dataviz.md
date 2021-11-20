@@ -11,10 +11,10 @@ Click on the image to see the full visualization
 
 <centering>
 
-<a href="smammals.html">
+<a href="AKmapNov152021.html">
 <div class="box" style="width: 30%; margin-right: 10px">
-  <img src="elru.png" alt="ELRU">
-  <img class="img-top" src="elru-words.png">
+  <img src="elru.png" alt="AK Map">
+  <img class="img-top" src="elru-wordsAK Map">
 </div>
 </a>
 
