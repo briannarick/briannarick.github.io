@@ -1,3 +1,8 @@
+---
+output:
+  html_document:
+    vss: air.css
+---
 <center>
 Home | [CV](cv/cv.html) | [Publications](publications/pubs.html) | [Research](research/research.html) | [DataViz](dataviz/dataviz.html)
 </center>
