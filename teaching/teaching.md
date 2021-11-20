@@ -1,5 +1,5 @@
 <center>
-[Home](https://briannarick.github.io/home) | [CV](cv/cv.html) | [Publications](publications/pubs.html) | [Research](research/research.html) | Teaching | [DataViz](dataviz/dataviz.html)
+[Home](https://briannarick.github.io/home) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | [Research](../research/research.html) | Teaching | [DataViz](../dataviz/dataviz.html)
 </center>
 
 # Teaching
