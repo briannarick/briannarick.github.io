@@ -13,8 +13,7 @@ Click on the image to see the full visualization
 
 <a href="AKmapNov152021.html">
 <div class="box" style="width: 30%; margin-right: 10px">
-  <img src="elru.png" alt="AK Map">
-  <img class="img-top" src="elru-wordsAK Map">
+  <img src="AKmapNov152021_screenshot.png" alt="AK Map">
 </div>
 </a>
 
