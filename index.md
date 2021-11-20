@@ -1,5 +1,5 @@
 <center>
-Home | [CV](cv/cv.html) | [Publications](publications/pubs.html) | [Research](research/research.html) | [Teaching](teaching/teaching.html) | [DataViz](dataviz/dataviz.html)
+Home | [CV](cv/cv.html) | [Publications](publications/pubs.html) | [Research](research/research.html) | [DataViz](dataviz/dataviz.html)
 </center>
 
 # Brianna Rick
