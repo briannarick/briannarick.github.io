@@ -7,7 +7,7 @@
 ## Education
 
 - PhD Geosciences (2018-present) Colorado State University, Fort Collins, CO
-- MS Geography (2016-2018 University of Montana, Missoula, MT
+- MS Geography (2016-2018) University of Montana, Missoula, MT
 - BS Geology (2010-2014) Carleton College, Northfield, MN
 
 ## Professional Experience
