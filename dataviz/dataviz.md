@@ -4,7 +4,7 @@ output:
     css: ~/brick7.github.iov3/air.css
 ---
 <center>
-[Home](https://briannarick.github.io/home) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | [Research](../research/research.html) | DataViz
+[Home](https://brick7.github.io) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | [Research](../research/research.html) | DataViz
 </center>
 
 # Data Visualization Projects

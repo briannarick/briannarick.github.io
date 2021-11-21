@@ -4,7 +4,7 @@ output:
     css: ~/brick7.github.iov3/air.css
 ---
 <center>
-[Home](https://briannarick.github.io/home) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
+[Home](https://brick7.github.io) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
 </center>
 
 # CV - Brianna Rick
