@@ -1,5 +1,5 @@
 <center>
-[Home](https://briannarick.github.io/home) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [Teaching](../teaching/teaching.html) | DataViz
+[Home](https://briannarick.github.io/home) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | [Research](../research/research.html) | DataViz
 </center>
 
 # Data Visualization Projects
@@ -27,13 +27,13 @@ Click on the image to see the full visualization
       <img src="../DSC_0210.jpg">
    </a>   
    <a href="Rick_CT_Alaska (1).jpg">
-      <img src="../Rick_CT_Alaska (1).jpg">
+      <img src="Rick_CT_Alaska (1).jpg">
    </a>
    <a href="Rick_Permafrost_Infographic.pdf">
-      <img src="../Rick_Permafrost_Infographic.pdf">
+      <img src="PermafrostInfographicScreenshot.jpg">
    </a>
    <a href="Rick_Denali_Final.jpg">
-      <img src="../Rick_Denali_Final.jpg">
+      <img src="Rick_Denali_Final.jpg">
    </a>  
   
 </div>
