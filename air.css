@@ -293,6 +293,7 @@ p {
     -webkit-column-count: 2;
     column-count:         2;
    }
+   
 @media (max-width: 1000px) {
    #gallery {
     -moz-column-count:    2;
