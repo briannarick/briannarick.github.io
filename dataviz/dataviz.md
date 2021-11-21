@@ -19,15 +19,6 @@ Click on the image to see the full visualization
    <a href="AKmapNov152021.html">
       <img src="AKmapNov152021_screenshot.png">
    </a>
-   <a href="AKmapNov152021.html">
-      <img src="../D_C8_O6U0AAJB9p.jpeg">
-   </a>
-   <a href="AKmapNov152021.html">
-      <img src="../D_C8_O7UEAACHyu.jpeg">
-   </a>
-   <a href="AKmapNov152021.html">
-      <img src="../D9B8KufUYAIqVgb.jpeg">
-   </a>
    <a href="SummaryFig_TC_AKlakes_v3.jpg">
       <img src="SummaryFig_TC_AKlakes_v3.jpg">
    </a>   
