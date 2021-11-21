@@ -23,8 +23,8 @@ Click on the image to see the full visualization
    <a href="AKmapNov152021.html">
       <img src="../D9B8KufUYAIqVgb.jpeg">
    </a>
-   <a href="AKmapNov152021.html">
-      <img src="../DSC_0210.jpg">
+   <a href="SummaryFig_TC_AKlakes_v3.jpg">
+      <img src="SummaryFig_TC_AKlakes_v3.jpg">
    </a>   
    <a href="Rick_CT_Alaska (1).jpg">
       <img src="Rick_CT_Alaska (1).jpg">
