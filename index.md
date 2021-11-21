@@ -1,6 +1,7 @@
 ---
 output:
   html_document:
+    css: air.css
     vss: air.css
 ---
 <center>

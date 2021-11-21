@@ -1,6 +1,7 @@
 ---
 output:
   html_document:
+    css: ~/brick7.github.iov3/air.css
     vss: ../air.css
 ---
 <center>

@@ -1,3 +1,8 @@
+---
+output: 
+  html_document: 
+    css: ~/brick7.github.iov3/air.css
+---
 <center>
 [Home](https://briannarick.github.io/home) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
 </center>
