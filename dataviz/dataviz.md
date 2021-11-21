@@ -9,27 +9,33 @@ Here's a little intro to the types of data visualization you like to do
 ## Products
 Click on the image to see the full visualization
 
-<centering>
-
-<a href="AKmapNov152021.html">
-<div class="box" style="width: 30%; margin-right: 10px">
-  <img src="AKmapNov152021_screenshot.png" alt="AK Map">
+<div id="gallery">
+  
+   <a href="AKmapNov152021.html">
+      <img src="AKmapNov152021_screenshot.png">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../D_C8_O6U0AAJB9p.jpeg">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../D_C8_O7UEAACHyu.jpeg">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../D9B8KufUYAIqVgb.jpeg">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../DSC_0210.jpg">
+   </a>   
+   <a href="AKmapNov152021.html">
+      <img src="../DSC_0281.jpg">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../ELfqRLvU4AEaQ0c.jpeg">
+   </a>
+   <a href="AKmapNov152021.html">
+      <img src="../IMG_7306.JPG">
+   </a>  
+  
 </div>
-</a>
-
-<a href="lates-popgen.html">
-<div class="box" style="width: 30%;  margin-right: 10px; margin-left: 10px;">
-  <img src="lates.png" alt="Lates fishes">
-  <img class="img-top" src="lates-words.png">
-</div>
-</a>
-
-<a href="dagaa-popgen.html">
-<div class="box" style="width: 30%;  margin-left: 10px">
-  <img src="dagaa.png" alt="Lake Tanganyika sardines">
-  <img class="img-top" src="dagaa-words.png">
-</div>
-</a>
 
 
-</center>
