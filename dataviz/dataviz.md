@@ -26,14 +26,14 @@ Click on the image to see the full visualization
    <a href="AKmapNov152021.html">
       <img src="../DSC_0210.jpg">
    </a>   
-   <a href="Rick_CT_Alaska(1).jpeg">
-      <img src="../Rick_CT_Alaska(1).jpeg">
+   <a href="Rick_CT_Alaska (1).jpg">
+      <img src="../Rick_CT_Alaska (1).jpg">
    </a>
    <a href="Rick_Permafrost_Infographic.pdf">
       <img src="../Rick_Permafrost_Infographic.pdf">
    </a>
-   <a href="Rick_Denali_Final.JPG">
-      <img src="../Rick_Denali_Final.JPG">
+   <a href="Rick_Denali_Final.jpg">
+      <img src="../Rick_Denali_Final.jpg">
    </a>  
   
 </div>
