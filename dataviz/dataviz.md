@@ -30,7 +30,7 @@ Click on the image to see the full visualization
       <img src="Rick_CT_Alaska (1).jpg">
    </a>
    <a href="Rick_Permafrost_Infographic.pdf">
-      <img src="PermafrostInfographicScreenshot.jpg">
+      <img src="PermafrostInfographicScreenshot.JPG">
    </a>
    <a href="Rick_Denali_Final.jpg">
       <img src="Rick_Denali_Final.jpg">
