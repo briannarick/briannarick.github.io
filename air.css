@@ -276,8 +276,8 @@ p {
    width: 100% !important;
    height: auto !important;
    margin-bottom:5px; /* to match column gap */
-   filter: gray; /* IE6-9 */
-  -webkit-filter: grayscale(100%);
+   *filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(50%);
    transition: transform .2s; /* Animation */
 }
 
