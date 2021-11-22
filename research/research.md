@@ -5,7 +5,7 @@ output:
     vss: ../air.css
 ---
 <center>
-[Home](https://brick7.github.io) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | Research | [DataViz](../dataviz/dataviz.html)
+[Home](https://briannarick.github.io) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | Research | [DataViz](../dataviz/dataviz.html)
 </center>
 
 # About my research
