@@ -15,5 +15,8 @@ output:
 ## In review
 **Rick, B**, McGrath, D, Armstrong, W, McCoy, S. Dam type and lake position characterize ice-marginal lake area change in Alaska and NW Canada between 1984 and 2019. Available as a preprint at [https://doi.org/10.5194/tc-2021-143](https://doi.org/10.5194/tc-2021-143)
 
+## Datasets
+2021 | **Rick, B** and D. McGrath. Multi-decadal Glacial Lake Inventory in the Alaska Region between 1984 and 2019. *Arctic Data Center*. [https://arcticdata.io/catalog/view/doi:10.18739/A2MK6591G](https://arcticdata.io/catalog/view/doi:10.18739/A2MK6591G)
+
 ## Non-peer reviewed
 2015 | **Rick, B**. Pilgrimage (Map). In: *Vier Pilger-ein Ziel: Zu Fuss nach Jerusalem*, p. 8-11.
