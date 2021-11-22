@@ -9,7 +9,7 @@ output:
 
 # Data Visualization Projects
 
-Here's a little intro to the types of data visualization you like to do
+Data visualizations are an important tool to broaden the reach of scientific research. My goal is to tailor my products to my audience, whether that be to a specialized community of researchers at a scientific conference, or to the general public who might have little exposure to the subject. 
 
 ## Products
 Click on the image to see the full visualization
