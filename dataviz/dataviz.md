@@ -28,7 +28,10 @@ My workflows integrate across platforms, including RStudio, ArcGIS, and Adobe Il
    <a href="RCOP_poster_150dpi.jpg">
       <img src="RCOP_poster_150dpi.jpg">
    </a> 
-   <a href="Rick_CT_Alaska (1).jpg">
+   <a href="LakeAgnes_SumFig.jpg">
+      <img src="LakeAgnes_SumFig.jpg">
+   </a> 
+    <a href="Rick_CT_Alaska (1).jpg">
       <img src="Rick_CT_Alaska (1).jpg">
    </a>
    <a href="Rick_Permafrost_Infographic.pdf">
@@ -36,8 +39,8 @@ My workflows integrate across platforms, including RStudio, ArcGIS, and Adobe Il
    </a>
    <a href="Rick_Denali_Final.jpg">
       <img src="Rick_Denali_Final.jpg">
-   </a>  
+   </a> 
+ 
   
 </div>
-
 
