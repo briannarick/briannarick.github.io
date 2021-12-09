@@ -40,6 +40,10 @@ My workflows integrate across platforms, including RStudio, ArcGIS, and Adobe Il
    <a href="Rick_Denali_Final.jpg">
       <img src="Rick_Denali_Final.jpg">
    </a> 
+   </a>
+   <a href="https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=F5-A8-6D-AF-12-99-7B-39-93-4E-97-E0-76-85-3D-47&guestview=true">
+      <img src="ScreenshotAGU2021.JPG">
+   </a> 
  
   
 </div>
