@@ -31,6 +31,9 @@ My workflows integrate across platforms, including RStudio, ArcGIS, and Adobe Il
    <a href="LakeAgnes_SumFig.jpg">
       <img src="LakeAgnes_SumFig.jpg">
    </a> 
+   <a href="RGmap_Colorado.html">
+      <img src="CO_RG_screenshot.JPG">
+   </a>
     <a href="Rick_CT_Alaska (1).jpg">
       <img src="Rick_CT_Alaska (1).jpg">
    </a>
