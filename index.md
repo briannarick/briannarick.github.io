@@ -27,3 +27,5 @@ Contact me: <br />
 Brianna Rick <br />
 [brianna.rick [at] colostate.edu](mailto:brianna.rick@colostate.edu)
 </center>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://briannarick.github.io/index.html}" alt="Hits" />

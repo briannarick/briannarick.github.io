@@ -48,3 +48,4 @@ My workflows integrate across platforms, including RStudio, ArcGIS, and Adobe Il
   
 </div>
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://briannarick.github.io/dataviz/dataviz.html}" alt="Hits" />
